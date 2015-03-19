@@ -12,9 +12,8 @@ guarenteed to be on the server.
 
 This script creates a csv with the necessary information to generate the sale
 page html. It is mostly a regular expression based scraper. 
-Neither this script nor genhtml.php actually modifies the internal x-cart
-pricing.
-The regex & matches will have to be updated for your use
+
+The regex & matches will have to be updated for your use.
 '''
 
 ''' Initialize csv objects '''
